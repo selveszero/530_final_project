@@ -6,7 +6,7 @@ Download all .py files in this repository.
 
 Run Main.ipynb and follow the instructions for training models.
 
-## Evaluation and generate samples
+## To evaluation and generate samples
 
 To obtain the results in output.md, follow the instructions in Main.ipynb for sampling and evaluation.
 
