@@ -1,6 +1,6 @@
-Example of what the Compute_bleu function returns (the image_paths are converted into images afterwards):
+# Example of what the Compute_bleu function returns (the image_paths are converted into images afterwards):
 
-After 10 validation instances:
+### After 10 validation instances:
 
 net BLEU-1 score: 0.36297869496151464
 
@@ -28,7 +28,7 @@ Gold captions:
   
 Generated caption: <start> a bathroom with a toilet and a sink . <end>
 
-After 20 validation instances:
+### After 20 validation instances:
 
 net BLEU-1 score: 0.34506169443820844
 
@@ -56,7 +56,7 @@ Gold captions:
   
 Generated caption: <start> a cat laying on a bed with a laptop computer . <end>
 
-After 30 validation instances:
+### After 30 validation instances:
 
 net BLEU-1 score: 0.34429038492933534
 
@@ -85,7 +85,7 @@ Gold captions:
 Generated caption: <start> a desk with a computer monitor and a computer monitor . <end>
   
 
-After 40 validation instances:
+### After 40 validation instances:
 
 net BLEU-1 score: 0.3377064487548069
 
@@ -114,7 +114,7 @@ Gold captions:
 Generated caption: <start> a dog is standing on a motorcycle with a red umbrella . <end>
   
 
-After 50 validation instances:
+### After 50 validation instances:
 
 net BLEU-1 score: 0.3370728615189866
 
@@ -142,7 +142,7 @@ Gold captions:
   
 Generated caption: <start> a bathroom with a toilet and a sink . <end>
 
-After 60 validation instances:
+### After 60 validation instances:
 
 net BLEU-1 score: 0.3360890975673225
 
@@ -171,7 +171,7 @@ Gold captions:
 Generated caption: <start> a plane is flying in the sky . <end>
   
 
-After 70 validation instances:
+### After 70 validation instances:
 
 net BLEU-1 score: 0.3397173643352086
 
@@ -200,7 +200,7 @@ Gold captions:
 Generated caption: <start> a bathroom with a toilet and a sink . <end>
   
 
-After 80 validation instances:
+### After 80 validation instances:
 
 net BLEU-1 score: 0.3416917233492534
 
@@ -229,7 +229,7 @@ Gold captions:
 Generated caption: <start> a plane flying through the air with a sky background <end>
 
 
-After 90 validation instances:
+### After 90 validation instances:
 
 net BLEU-1 score: 0.3411215157296211
 
@@ -257,7 +257,7 @@ Gold captions:
   
 Generated caption: <start> a red fire hydrant with a red and white background <end>
 
-After 100 validation instances:
+### After 100 validation instances:
 
 net BLEU-1 score: 0.3414566122889686
 
