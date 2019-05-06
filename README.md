@@ -27,9 +27,10 @@ To use a Resnet as pretrained model, download model_resnet.py, rename it to mode
 To use GRU instead of LSTM, go to the decoder class in model.py and change the 'LSTM' (case matters), which only appears once, to 'GRU'.
 
 ### 4. Optimizer
-
+To use a different optimizer, go to train.py and change torch.optim.Adam to a different optimizer, for example, torch.optim.SGD, and run the main ipython file as before. 
 
 ### 5. Loss
+To use a different loss function, go to train.py and change nn.CrossEntropyLoss() to a different objective function, for example, nn.NLLLoss(), and run the main ipython file as before. 
 
 
 
