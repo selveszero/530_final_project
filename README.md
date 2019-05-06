@@ -1,8 +1,9 @@
 # 530 final project
 
+Download all .py files in this repository.
+
 Run Main.ipynb and follow the instructions there.
 
-(be sure to download all .py files in this repository and upload to a place accessible by Main.ipynb)
 
 
 # Extensions
