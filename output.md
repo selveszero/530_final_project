@@ -15,6 +15,7 @@ For validation instance number 10 :
 
 Image path: data/resizedval2014/COCO_val2014_000000331352.jpg
 
+
 Gold captions:
 
 <start> a small closed toilet in a cramped space . <end>
