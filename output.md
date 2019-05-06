@@ -30,7 +30,9 @@ Gold captions:
   
 <start> off white toilet with a faucet and controls . <end>
   
-Generated caption: <start> a bathroom with a toilet and a sink . <end>
+Generated caption: 
+
+<start> a bathroom with a toilet and a sink . <end>
 
 ### After 20 validation instances:
 
@@ -60,7 +62,9 @@ Gold captions:
   
 <start> a kitten is sitting in a bowl on a table . <end>
   
-Generated caption: <start> a cat laying on a bed with a laptop computer . <end>
+Generated caption: 
+
+<start> a cat laying on a bed with a laptop computer . <end>
 
 ### After 30 validation instances:
 
@@ -90,7 +94,9 @@ Gold captions:
   
 <start> a laptop , monitor , printer and tablet on a desk . <end>
   
-Generated caption: <start> a desk with a computer monitor and a computer monitor . <end>
+Generated caption: 
+
+<start> a desk with a computer monitor and a computer monitor . <end>
   
 
 ### After 40 validation instances:
@@ -121,7 +127,9 @@ Gold captions:
   
 <start> three dogs on the lap of a woman in the driver 's seat of a convertible . <end>
   
-Generated caption: <start> a dog is standing on a motorcycle with a red umbrella . <end>
+Generated caption: 
+
+<start> a dog is standing on a motorcycle with a red umbrella . <end>
   
 
 ### After 50 validation instances:
@@ -152,7 +160,9 @@ Gold captions:
   
 <start> white toilet by built-in shelves in a tiled bathroom . <end>
   
-Generated caption: <start> a bathroom with a toilet and a sink . <end>
+Generated caption: 
+
+<start> a bathroom with a toilet and a sink . <end>
 
 ### After 60 validation instances:
 
@@ -182,7 +192,9 @@ Gold captions:
   
 <start> a picture of a plane in a runway . <end>
   
-Generated caption: <start> a plane is flying in the sky . <end>
+Generated caption:
+
+<start> a plane is flying in the sky . <end>
   
 
 ### After 70 validation instances:
@@ -213,7 +225,9 @@ Gold captions:
   
 <start> a bathroom in the middle of a reconstruction phase . <end>
   
-Generated caption: <start> a bathroom with a toilet and a sink . <end>
+Generated caption:
+
+<start> a bathroom with a toilet and a sink . <end>
   
 
 ### After 80 validation instances:
@@ -245,7 +259,9 @@ Gold captions:
   
 <start> one airplane is taking off from an airport while others are parked . <end>
   
-Generated caption: <start> a plane flying through the air with a sky background <end>
+Generated caption:
+
+<start> a plane flying through the air with a sky background <end>
 
 
 ### After 90 validation instances:
@@ -276,7 +292,9 @@ Gold captions:
   
 <start> daring guy does tricks mid air on motorcycle <end>
   
-Generated caption: <start> a red fire hydrant with a red and white background <end>
+Generated caption: 
+
+<start> a red fire hydrant with a red and white background <end>
 
 ### After 100 validation instances:
 
@@ -306,6 +324,8 @@ Gold captions:
   
 <start> an airplane is taking off at an airport . <end>
   
-Generated caption: <start> a plane flying through the air with a sky background <end>
+Generated caption: 
+
+<start> a plane flying through the air with a sky background <end>
 
 
