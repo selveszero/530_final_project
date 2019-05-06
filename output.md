@@ -15,7 +15,8 @@ For validation instance number 10 :
 
 Image path: data/resizedval2014/COCO_val2014_000000331352.jpg
 
-![image](https://drive.google.com/file/d/11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+
 
 Gold captions:
 
