@@ -14,3 +14,7 @@ In order to change the hidden size of the model, we can call the following comma
 ```
 You also need to manually modify the hidden size parameter in model.py to match your input hidde size.
 
+
+# Evaluation and Output
+
+To obtain the output shown in output.md, follow the instructions in Main.ipynb for evaluation.
