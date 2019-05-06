@@ -1,4 +1,5 @@
-# Example of what the Compute_bleu function returns (the image_paths are converted into images afterwards):
+### Example of what the Compute_bleu function returns 
+(the image_paths are converted into images afterwards):
 
 ### After 10 validation instances:
 
