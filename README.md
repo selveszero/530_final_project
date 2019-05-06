@@ -20,6 +20,13 @@ To use a Resnet as pretrained model, download model_resnet.py, rename it to mode
 ### 3. Type of Recurrent Neural Network
 To use GRU instead of LSTM, go to the decoder class in model.py and change the 'LSTM' (case matters), which only appears once, to 'GRU'.
 
+### 4. Optimizer
+
+
+### 5. Loss
+
+
+
 # Evaluation and Output
 
 To obtain the results in output.md, follow the instructions in Main.ipynb for evaluation.
