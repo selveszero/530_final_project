@@ -46,6 +46,8 @@ For validation instance number 20 :
 
 Image path: data/resizedval2014/COCO_val2014_000000548498.jpg
 
+![image](https://drive.google.com/uc?export=view&id=1kmGuBT-VjIKmHWCMrMOKSWOeV8jTh7NB)
+
 Gold captions:
 
 <start> a cute kitten is sitting in a dish on a table . <end>
@@ -73,6 +75,8 @@ net BLEU-4 score: 0.2569724115572435
 For validation instance number 30 :
 
 Image path: data/resizedval2014/COCO_val2014_000000079472.jpg
+
+![image](https://drive.google.com/uc?export=view&id=1pwmCBpQIalh_3g3Tox10WLXw6xJDvbTe)
 
 Gold captions:
 
@@ -103,6 +107,8 @@ For validation instance number 40 :
 
 Image path: data/resizedval2014/COCO_val2014_000000407286.jpg
 
+![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+
 Gold captions:
 
 <start> a trio of dogs sitting in their owner 's lap in a red convertible . <end>
@@ -132,6 +138,8 @@ For validation instance number 50 :
 
 Image path: data/resizedval2014/COCO_val2014_000000560591.jpg
 
+![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+
 Gold captions:
 
 <start> a modern flush toilet in a bathroom with tile . <end>
@@ -159,6 +167,8 @@ net BLEU-4 score: 0.24993130191070964
 For validation instance number 60 :
 
 Image path: data/resizedval2014/COCO_val2014_000000527510.jpg
+
+![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
 
 Gold captions:
 
@@ -189,6 +199,8 @@ For validation instance number 70 :
 
 Image path: data/resizedval2014/COCO_val2014_000000135161.jpg
 
+![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+
 Gold captions:
 
 <start> a toilet sits next to a window and in front of a shower . <end>
@@ -217,6 +229,8 @@ net BLEU-4 score: 0.25227670189784457
 For validation instance number 80 :
 
 Image path: data/resizedval2014/COCO_val2014_000000061259.jpg
+
+![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
 
 Gold captions:
 
@@ -247,6 +261,8 @@ For validation instance number 90 :
 
 Image path: data/resizedval2014/COCO_val2014_000000279806.jpg
 
+![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+
 Gold captions:
 
 <start> a dirt bike rider doing a stunt jump in the air <end>
@@ -274,6 +290,8 @@ net BLEU-4 score: 0.2509746327600645
 For validation instance number 100 :
 
 Image path: data/resizedval2014/COCO_val2014_000000172851.jpg
+
+![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
 
 Gold captions:
 
