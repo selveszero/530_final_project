@@ -107,7 +107,7 @@ For validation instance number 40 :
 
 Image path: data/resizedval2014/COCO_val2014_000000407286.jpg
 
-![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+![image](https://drive.google.com/uc?export=view&id=1ek87OQTnL25v_MJ4T0eJWDXEcR1iTwlH)
 
 Gold captions:
 
@@ -138,7 +138,7 @@ For validation instance number 50 :
 
 Image path: data/resizedval2014/COCO_val2014_000000560591.jpg
 
-![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+![image](https://drive.google.com/uc?export=view&id=1ylLqvVObdsnX3DjaS9fPP96xUyqb9ksm)
 
 Gold captions:
 
@@ -168,7 +168,7 @@ For validation instance number 60 :
 
 Image path: data/resizedval2014/COCO_val2014_000000527510.jpg
 
-![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+![image](https://drive.google.com/uc?export=view&id=1UNb6vyoto8NrXB5UibURkeB5HXIiQtuv)
 
 Gold captions:
 
@@ -199,7 +199,7 @@ For validation instance number 70 :
 
 Image path: data/resizedval2014/COCO_val2014_000000135161.jpg
 
-![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+![image](https://drive.google.com/uc?export=view&id=1MW4cxDm_smdD_qCsbxfLSMkvwbXHiM80)
 
 Gold captions:
 
@@ -230,7 +230,8 @@ For validation instance number 80 :
 
 Image path: data/resizedval2014/COCO_val2014_000000061259.jpg
 
-![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+![image](https://drive.google.com/uc?export=view&id=1S8wR0m-_CW-8uFP0lZhE8HlAYWy_BcgQ)
+
 
 Gold captions:
 
@@ -261,7 +262,7 @@ For validation instance number 90 :
 
 Image path: data/resizedval2014/COCO_val2014_000000279806.jpg
 
-![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+![image](https://drive.google.com/uc?export=view&id=1jk3RfgTYQed_F0cgzyBMow-mrn6SiyBd)
 
 Gold captions:
 
@@ -291,7 +292,7 @@ For validation instance number 100 :
 
 Image path: data/resizedval2014/COCO_val2014_000000172851.jpg
 
-![image](https://drive.google.com/uc?export=view&id=11PpCNEMS_lymVySp2JAlV6AzkVTsvFbS)
+![image](https://drive.google.com/uc?export=view&id=143svtwtKQw07IuRmVq7_ln1AgBIkjKnh)
 
 Gold captions:
 
