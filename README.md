@@ -1,5 +1,7 @@
 # 530 final project
 
+# To train, evaluate and generate samples
+
 Download all .py files in this repository.
 
 Run Main.ipynb and follow the instructions there.
