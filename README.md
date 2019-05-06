@@ -17,4 +17,4 @@ You also need to manually modify the hidden size parameter in model.py to match 
 
 # Evaluation and Output
 
-To obtain the output shown in output.md, follow the instructions in Main.ipynb for evaluation.
+To obtain the results in output.md, follow the instructions in Main.ipynb for evaluation.
