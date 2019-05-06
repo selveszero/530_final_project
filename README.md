@@ -1,14 +1,17 @@
 # 530 final project
 
-# To train, evaluate and generate samples
+## To train
 
 Download all .py files in this repository.
 
-Run Main.ipynb and follow the instructions there.
+Run Main.ipynb and follow the instructions for training models.
+
+## Evaluation and generate samples
+
+To obtain the results in output.md, follow the instructions in Main.ipynb for sampling and evaluation.
 
 
-
-# Extensions
+## Extensions
 
 ### 1. Hidden Size
 In order to change the hidden size of the model, we can call the following command in terminal 
@@ -30,6 +33,4 @@ To use GRU instead of LSTM, go to the decoder class in model.py and change the '
 
 
 
-# Evaluation and Output
 
-To obtain the results in output.md, follow the instructions in Main.ipynb for evaluation.
